@@ -1,0 +1,35 @@
+{
+	"bloc": {
+		"too-early": [
+			"Tu préfères pas plutôt te reposer&#8239;?",
+			"Le GN-blues peut effectivement être une source de motivation.",
+			"Tu refais entièrement ta garde-robe pour démarrer maintenant&#8239;?"
+		],
+		"early": [
+			"Le plus tôt est le mieux.",
+			"Prototype, entoilages, et expérimentations.",
+			"Bravo, tu t&rsquo;y prends tôt."
+		],
+		"mid": [
+			"Tu as pensé à commander tous tes matériaux&#8239;?",
+			"Tu es large pour faire les choses correctement.",
+			"Parfaitement dans les temps."
+		],
+		"late": [
+			"J&rsquo;espère que tes prochains week-end sont libres.",
+			"Ça va, t&rsquo;as encore un peu de temps.",
+			"C&rsquo;est pas encore la hess, mais arrête de procrastiner."
+		],
+		"too-late": [
+			"Je vais pas te mentir, c&rsquo;est chaud.",
+			"Reste focus, tu peux encore y arriver.",
+			"Avec de la chance et l&rsquo;adrénaline, tu peux y arriver",
+			"Rassures-moi, tu sais ce que tu fais&#8239;?"
+		],
+		"now": [
+			"J&rsquo;espère que tu trouveras ce qu&rsquo;il te faut au Tross.",
+			"Maintenant&#8239;? Mais tu es zinzin&#8239;?",
+			"Là c&rsquo;est vraiement la hess."
+		]
+	}
+}
