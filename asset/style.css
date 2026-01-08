@@ -5,6 +5,8 @@ body{
 	font-size: 16px;
 	line-height: 1.5;
 	font-family: 'Source Sans 3', 'Source Sans Pro', 'Source Sans', sans-serif;
+	background-color: #F2EBDC;
+	color: #26170F;
 }
 
 .main{
@@ -27,11 +29,17 @@ body{
 
 .car{
 	font-size: 1.5em;
+	color: #0B758C;
 }
 
 .conseil{
 	font-style: italic;
-	font-size: 1.117em;
+	font-weight: 300;
+	background-color: #fff;
+	padding: 1.2em 1.5em;
+	border-radius: 1em;
+	width: fit-content;
+	box-shadow: 0 0.1em 1em #26170F20;
 }
 
 .secondes{
@@ -49,6 +57,6 @@ body{
 	}
 
 	.conseil{
-		font-size: 1.4;
+		font-size: 1.2em;
 	}
 }
